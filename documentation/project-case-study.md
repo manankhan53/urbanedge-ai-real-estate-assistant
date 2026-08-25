@@ -53,6 +53,26 @@ The workflow:
 - GitHub
 - Netlify
 
+## Deployment
+
+The system was deployed and tested on a live website.
+
+**Live Demo:**  
+https://urbanedge-ai-properties.netlify.app/
+
+## Project Outcome
+
+The completed system demonstrates:
+
+- Conversational AI integration
+- Lead qualification
+- Workflow automation
+- CRM integration
+- Business process automation
+- Web deployment
+
+The project was designed and deployed as a realistic business automation solution for a real estate use case.
+
 ## System Architecture
 
 ```text
